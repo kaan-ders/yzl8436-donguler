@@ -1,0 +1,15 @@
+C:\Projects\yzl-8436\yzl8436-donguler\Donguler\bin\Debug\net6.0\Donguler.exe
+C:\Projects\yzl-8436\yzl8436-donguler\Donguler\bin\Debug\net6.0\Donguler.deps.json
+C:\Projects\yzl-8436\yzl8436-donguler\Donguler\bin\Debug\net6.0\Donguler.runtimeconfig.json
+C:\Projects\yzl-8436\yzl8436-donguler\Donguler\bin\Debug\net6.0\Donguler.dll
+C:\Projects\yzl-8436\yzl8436-donguler\Donguler\bin\Debug\net6.0\Donguler.pdb
+C:\Projects\yzl-8436\yzl8436-donguler\Donguler\obj\Debug\net6.0\Donguler.csproj.AssemblyReference.cache
+C:\Projects\yzl-8436\yzl8436-donguler\Donguler\obj\Debug\net6.0\Donguler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\yzl-8436\yzl8436-donguler\Donguler\obj\Debug\net6.0\Donguler.AssemblyInfoInputs.cache
+C:\Projects\yzl-8436\yzl8436-donguler\Donguler\obj\Debug\net6.0\Donguler.AssemblyInfo.cs
+C:\Projects\yzl-8436\yzl8436-donguler\Donguler\obj\Debug\net6.0\Donguler.csproj.CoreCompileInputs.cache
+C:\Projects\yzl-8436\yzl8436-donguler\Donguler\obj\Debug\net6.0\Donguler.dll
+C:\Projects\yzl-8436\yzl8436-donguler\Donguler\obj\Debug\net6.0\refint\Donguler.dll
+C:\Projects\yzl-8436\yzl8436-donguler\Donguler\obj\Debug\net6.0\Donguler.pdb
+C:\Projects\yzl-8436\yzl8436-donguler\Donguler\obj\Debug\net6.0\Donguler.genruntimeconfig.cache
+C:\Projects\yzl-8436\yzl8436-donguler\Donguler\obj\Debug\net6.0\ref\Donguler.dll
