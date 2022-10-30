@@ -118,17 +118,36 @@
             //-----------------------------------
             //tek-cift sayılar toplamı
 
-            int tekSayilarToplami = 0, ciftSayilarToplami = 0;
-            for (int i = 0; i < 100; i++)
-            {
-                if (i % 2 == 0)
-                    ciftSayilarToplami += i;
-                else
-                    tekSayilarToplami += i;
-            }
+            //int tekSayilarToplami = 0, ciftSayilarToplami = 0;
+            //for (int i = 0; i < 100; i++)
+            //{
+            //    if (i % 2 == 0)
+            //        ciftSayilarToplami += i;
+            //    else
+            //        tekSayilarToplami += i;
+            //}
 
-            Console.WriteLine("Tek sayılar toplamı: " + tekSayilarToplami + ", Çift sayılar toplamı: " + ciftSayilarToplami);
-            Console.Read();
+            //Console.WriteLine("Tek sayılar toplamı: " + tekSayilarToplami + ", Çift sayılar toplamı: " + ciftSayilarToplami);
+            //Console.Read();
+
+            //continue - bir sonraki döngü adımına geçer
+            //for (int i = 1; i <= 10; i++)
+            //{
+            //    if (i % 2 != 0)
+            //        continue;
+
+            //    Console.WriteLine(i);
+            //}
+
+            //break -  döngüden çıkar
+
+            //for (int i = 0; i < 10; i++)
+            //{
+            //    if (i == 5)
+            //        break;
+
+            //    Console.WriteLine(i);
+            //}
         }
     }
 }
